@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch ConversorMoeda",
+      "request": "launch",
+      "mainClass": "com.conversor.ConversorMoeda",
+      "projectName": "Conversor_de_Moedas"
+    }
+  ]
+}
