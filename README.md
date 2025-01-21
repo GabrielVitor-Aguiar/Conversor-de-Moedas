@@ -91,14 +91,3 @@ Opção:
 ```
 
 Selecione uma opção e insira o valor a ser convertido quando solicitado.
-
-## Erros Comuns
-
-- **Classe não encontrada:** Certifique-se de que está navegando até a raiz do projeto antes de executar o programa.
-- **Erro ao conectar à API:** Verifique sua conexão com a internet e se a API Key foi configurada corretamente.
-- **Dependência Gson ausente:** Adicione o Gson ao classpath do projeto.
-
-## Contribuições
-
-Sinta-se à vontade para contribuir com melhorias no projeto enviando pull requests ou abrindo issues no repositório.
-
